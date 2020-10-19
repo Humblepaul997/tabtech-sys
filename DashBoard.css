@@ -1,0 +1,40 @@
+.u-section-1 {background-image: url("images/MainPage.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 1608px}
+.u-section-1 .u-text-1 {font-weight: 700; margin: 409px 225px 0 auto}
+.u-section-1 .u-table-1 {width: 294px; height: 319px; margin: 82px auto 0 82px}
+.u-section-1 .u-table-header-1 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-35 {background-image: none}
+.u-section-1 .u-table-2 {width: 294px; height: 319px; margin: -319px auto 0 412px}
+.u-section-1 .u-table-header-2 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-118 {background-image: none}
+.u-section-1 .u-table-3 {width: 294px; height: 319px; margin: -320px 104px 0 auto}
+.u-section-1 .u-table-header-3 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-140 {background-image: none}
+.u-section-1 .u-table-4 {width: 294px; height: 319px; margin: 30px 104px 0 auto}
+.u-section-1 .u-table-header-4 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-162 {background-image: none}
+.u-section-1 .u-table-5 {width: 294px; height: 319px; margin: -318px auto 0 412px}
+.u-section-1 .u-table-header-5 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-184 {background-image: none}
+.u-section-1 .u-table-6 {width: 294px; height: 319px; margin: -320px auto 60px 82px}
+.u-section-1 .u-table-header-6 {font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none}
+.u-block-cfa0-206 {background-image: none} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 1933px}
+.u-section-1 .u-text-1 {margin-top: -1797px}
+.u-section-1 .u-table-entity-1 {min-height: 100px; height: 222px} }
+
+@media (max-width: 991px){ .u-section-1 .u-table-1 {margin-top: 23px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-top: -1747px}
+.u-section-1 .u-table-1 {margin-top: -16px}
+.u-section-1 .u-table-2 {margin-left: 246px}
+.u-section-1 .u-table-5 {margin-left: 246px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {margin-top: -1408px}
+.u-section-1 .u-table-1 {margin-top: -55px; margin-left: 46px}
+.u-section-1 .u-table-2 {margin-left: 46px}
+.u-section-1 .u-table-3 {margin-right: 46px}
+.u-section-1 .u-table-4 {margin-right: 46px}
+.u-section-1 .u-table-5 {margin-left: 46px}
+.u-section-1 .u-table-6 {margin-left: 46px} }

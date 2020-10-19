@@ -1,0 +1,13 @@
+.u-section-1 {background-image: url("images/MainPage.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 1479px}
+.u-section-1 .u-text-1 {font-size: 1.875rem; margin: 434px auto 60px 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 1220px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 934px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 701px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 441px} }.u-section-2 .u-sheet-1 {min-height: 592px} 
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1083px} }
